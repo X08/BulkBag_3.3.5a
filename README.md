@@ -1,9 +1,9 @@
-# BulkBag
-Move batches of items in WotLK 3.3.5
 
-How To:
+### [BulkBag](https://github.com/X08/BulkBag_3.3.5a)
+Move batches of items in WotLK 3.3.5.
+> Lets you Ctrl+click or drag-select multiple items in your bags at once, then move them all in a single click — including into bank and guild bank slots.
+**In-game options:** `/bulkbag` — item selection itself is mouse-driven. Hold **Ctrl + Left Mouse Button** to select multiple items, or hold **LMB** and drag across items to multi-select, then click an empty bag/bank/guild-tab slot to move them all at once.
 
-Hold 'Ctrl' and LMB (Left Mouse Button) to select multiple items in your inventory.
-Then click in an empty bag/bankslot/guildtab to move those items.
+![](https://github.com/X08/X08_WoW_3.3.5a/blob/main/Images/BulkBag_GIF.gif)
 
-Holding the LMB to drag across items will select multiple items at once.
+*Built for the 3.3.5a / WotLK client.- Made by X08 with help of Claude.ai*
