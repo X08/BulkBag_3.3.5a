@@ -1,3 +1,4 @@
+[Also check out my other addons!](https://github.com/X08/X08_WoW_3.3.5a)
 
 ### [BulkBag](https://github.com/X08/BulkBag_3.3.5a)
 Move batches of items in WotLK 3.3.5a.
